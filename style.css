@@ -1,0 +1,40 @@
+
+.logo {
+  color:#6A35B1;
+  font-size:32pt;
+  text-align:center;
+  font-family:Garamond,Verdana,sans-serif;
+  font-variant:small-caps;
+}
+
+.nav {
+  font-size:18pt;
+  color:#B1353D;
+  float:right;
+  font-family:Garamond,Verdana,sans-serif;
+}
+
+.main {
+  font-family:Garamond,Verdana,sans-serif;
+  color:#1A331A;
+}
+
+.menu {
+  font-family:Garamond,Verdana,sans-serif;
+  color:#7B8135;
+}
+
+.sitemap {
+  font-family:Garamond,Verdana,sans-serif;
+  color:#D8DAF3;
+}
+
+.blogs {
+  font-family:Garamond,Verdana,sans-serif;
+  color:#D8DAF3;
+}
+
+.archives {
+  font-family:Garamond,Verdana,sans-serif;
+  color:#1A331A;
+}
