@@ -1,13 +1,13 @@
 
 .logo {
-  color:#6A35B1;
+  color:#432277;
   font-size:32pt;
   text-align:right;
   font-family:Garamond,Verdana,sans-serif;
   font-variant:small-caps;
 }
 
-.nav {
+nav {
   font-size:12pt;
   color:#B1353D;
   float:right;
@@ -19,7 +19,19 @@
   font-family:Garamond,Verdana,sans-serif;
   color:#1A331A;
   text-align:center;
+  overflow:scroll;
 }
+
+::-webkit-scrollbar {
+    width:  10px;
+    height: 10px;
+    background-color:#528844;
+}
+::-webkit-scrollbar-thumb {
+    background-color:#432277;
+    width: 10px;
+}
+
 
 .menu {
   font-family:Garamond,Verdana,sans-serif;
@@ -31,7 +43,7 @@
   color:#D8DAF3;
 }
 
-.blogs {
+.submit {
   font-family:Garamond,Verdana,sans-serif;
   color:#1A331A;
 }
