@@ -16,6 +16,7 @@ nav {
 }
 
 .main {
+  font-size:12.5pt;
   font-family:Garamond,Verdana,sans-serif;
   color:#1A331A;
   text-align:center;
@@ -54,3 +55,5 @@ nav {
   color:#1A331A;
   text-align:center;
 }
+
+
