@@ -25,7 +25,7 @@ nav {
 ::-webkit-scrollbar {
     width:  10px;
     height: 10px;
-    background-color:#528844;
+    background-color:#66AA55;
 }
 ::-webkit-scrollbar-thumb {
     background-color:#432277;
@@ -41,6 +41,7 @@ nav {
 .sitemap {
   font-family:Garamond,Verdana,sans-serif;
   color:#D8DAF3;
+  
 }
 
 .submit {
